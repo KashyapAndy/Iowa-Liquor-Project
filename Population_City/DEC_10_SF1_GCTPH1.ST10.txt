@@ -1,0 +1,195 @@
+GCT-PH1
+Population, Housing Units, Area, and Density:  2010 - State -- Place and (in selected states) County Subdivision
+
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see  http://www.census.gov/prod/cen2010/doc/sf1.pdf.
+
+(r42146)	This count has been revised.   
+Revised count: 4,357 Revision date: 01-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r18511)	This count has been revised.   
+Revised count: 1,520 Revision date: 01-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r42147)	This count has been revised.   
+Revised count: 33,215 Revision date: 01-02-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r18512)	This count has been revised.   
+Revised count: 14,436 Revision date: 01-02-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r42148)	This count has been revised.   
+Revised count: 25,619 Revision date: 12-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r42149)	This count has been revised.   
+Revised count: 99,687 Revision date: 12-31-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r18513)	This count has been revised.   
+Revised count: 44,088 Revision date: 12-31-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r42150)	This count has been revised.   
+Revised count: 204,220 Revision date: 03-21-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r18514)	This count has been revised.   
+Revised count: 89,052 Revision date: 03-21-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r42087)	This count has been revised.   
+Revised count: 204,005 Revision date: 03-21-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r18450)	This count has been revised.   
+Revised count: 88,966 Revision date: 03-21-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r42130)	This count has been revised.   
+Revised count: 215 Revision date: 03-21-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r18495)	This count has been revised.   
+Revised count: 86 Revision date: 03-21-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r42151)	This count has been revised.   
+Revised count: 717 Revision date: 01-31-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r18515)	This count has been revised.   
+Revised count: 314 Revision date: 01-31-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r42152)	This count has been revised.   
+Revised count: 1,294 Revision date: 08-04-2011
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r42153)	This count has been revised.   
+Revised count: 462 Revision date: 03-26-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r18516)	This count has been revised.   
+Revised count: 265 Revision date: 03-26-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r42154)	This count has been revised.   
+Revised count: 8,941 Revision date: 03-21-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r18517)	This count has been revised.   
+Revised count: 3,449 Revision date: 03-21-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r42132)	This count has been revised.   
+Revised count: 8,941 Revision date: 03-21-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r18497)	This count has been revised.   
+Revised count: 3,449 Revision date: 03-21-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r42155)	This count has been revised.   
+Revised count: 3,012 Revision date: 12-12-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+X Not applicable.
+
+Source: U.S. Census Bureau, 2010 Census.
+
+Census 2010 Summary File 1, Geographic Header Record G001.
+
